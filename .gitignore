@@ -100,3 +100,15 @@ fabric.properties
 
 # Project exclude paths
 /disruptor-sample/target/
+将删除 .idea/.gitignore
+将删除 .idea/compiler.xml
+将删除 .idea/inspectionProfiles/
+将删除 .idea/jarRepositories.xml
+将删除 .idea/misc.xml
+将删除 .idea/vcs.xml
+将删除 blockingqueue-sample/src/main/resources/
+将删除 blockingqueue-sample/src/test/
+将删除 blockingqueue-sample/target/generated-sources/
+将删除 disruptor-learning.iml
+将删除 disruptor-sample/src/main/resources/
+将删除 disruptor-sample/src/test/

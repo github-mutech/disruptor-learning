@@ -1,4 +1,4 @@
-package com.mutech.disruptor.learning.disruptor.sample2;
+package com.mutech.disruptor.learning.disruptor.sample;
 
 import com.lmax.disruptor.EventTranslatorOneArg;
 
